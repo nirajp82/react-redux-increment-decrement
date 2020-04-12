@@ -2,11 +2,7 @@
   "ExpandedNodes": [
     "",
     "\\src",
-    "\\src\\Actions",
-    "\\src\\components",
-    "\\src\\Reducers",
-    "\\src\\Util"
+    "\\src\\components"
   ],
-  "SelectedNode": "\\src\\components\\App.js",
   "PreviewInSolutionExplorer": false
 }
